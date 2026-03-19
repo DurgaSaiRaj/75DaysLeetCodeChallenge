@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
