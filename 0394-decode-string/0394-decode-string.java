@@ -1,0 +1,27 @@
+import java.util.*;
+class Solution {
+    public String decodeString(String s) {
+        Deque<Integer> countStack = new ArrayDeque<>();
+        Deque<StringBuilder> strStack = new ArrayDeque<>();
+        StringBuilder cur = new StringBuilder();
+        int k = 0;
+        for (char c : s.toCharArray()) {
+            if (Character.isDigit(c)) {
+                k = k * 10 + (c - '0');
+            } else if (c == '[') {
+                countStack.push(k);
+                strStack.push(cur);
+                cur = new StringBuilder();
+                k = 0;
+            } else if (c == ']') {
+                int repeat = countStack.pop();
+                StringBuilder prev = strStack.pop();
+                for (int i = 0; i < repeat; i++) prev.append(cur);
+                cur = prev;
+            } else {
+                cur.append(c);
+            }
+        }
+        return cur.toString();
+    }
+}
