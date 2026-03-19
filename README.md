@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
