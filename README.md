@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
+## Stack
+|  |
+| ------- |
+| [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 <!---LeetCode Topics End-->
