@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
