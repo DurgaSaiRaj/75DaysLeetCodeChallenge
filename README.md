@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
