@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0382-linked-list-random-node](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
+| [0390-elimination-game](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0390-elimination-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
