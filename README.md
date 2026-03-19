@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Interactive
 |  |
 | ------- |
