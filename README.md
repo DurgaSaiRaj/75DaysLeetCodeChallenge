@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Trie
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Geometry
 |  |
 | ------- |
