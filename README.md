@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
