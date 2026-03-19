@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 ## Backtracking
 |  |
 | ------- |
