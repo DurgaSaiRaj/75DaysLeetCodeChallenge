@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
 | ------- |
