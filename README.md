@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
 | ------- |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0376-wiggle-subsequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
