@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
+## Matrix
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
