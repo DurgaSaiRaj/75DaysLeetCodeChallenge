@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Interactive
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Randomized
 |  |
 | ------- |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
