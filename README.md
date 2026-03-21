@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
