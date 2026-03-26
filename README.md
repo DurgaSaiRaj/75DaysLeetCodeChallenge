@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
+| [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
 | ------- |
