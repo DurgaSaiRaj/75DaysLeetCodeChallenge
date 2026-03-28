@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
+| [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Memoization
 |  |
