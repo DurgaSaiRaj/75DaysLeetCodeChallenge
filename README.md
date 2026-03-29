@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
