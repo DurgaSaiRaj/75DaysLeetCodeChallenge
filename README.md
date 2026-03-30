@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Recursion
 |  |
