@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
