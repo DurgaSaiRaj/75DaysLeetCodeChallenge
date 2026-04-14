@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
@@ -329,9 +331,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
