@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
@@ -331,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
