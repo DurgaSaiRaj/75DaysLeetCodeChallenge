@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,4 +348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0404-sum-of-left-leaves) |
+| [0572-subtree-of-another-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
