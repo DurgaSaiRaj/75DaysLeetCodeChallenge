@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
 ## Queue
 |  |
