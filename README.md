@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
