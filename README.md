@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## Memoization
 |  |
 | ------- |
