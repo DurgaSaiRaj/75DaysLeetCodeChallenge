@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
+| [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
