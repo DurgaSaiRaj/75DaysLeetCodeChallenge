@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 ## Game Theory
 |  |
