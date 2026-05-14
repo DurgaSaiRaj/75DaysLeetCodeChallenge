@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
