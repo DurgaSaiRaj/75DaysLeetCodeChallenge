@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0344-reverse-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0385-mini-parser) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0401-binary-watch) |
 ## Matrix
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Ordered Set
 |  |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0386-lexicographical-numbers) |
 ## Queue
 |  |
