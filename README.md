@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -335,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Randomized
 |  |
 | ------- |
