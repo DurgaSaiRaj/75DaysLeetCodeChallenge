@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Union-Find
 |  |
