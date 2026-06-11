@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/DurgaSaiRaj/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
